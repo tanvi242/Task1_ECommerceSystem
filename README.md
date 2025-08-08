@@ -1,4 +1,4 @@
-# E-Commerce Order System (ASAR Java Task 1)
+# E-Commerce Order System ( Java Task 1)
 
 This is a simple **Java console-based E-Commerce Order System** created for the ASAR IT Technologies internship.
 
